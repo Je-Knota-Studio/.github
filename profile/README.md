@@ -1,1 +1,1 @@
-# Je-Knota Studio
+# Knota Studio
